@@ -1,6 +1,6 @@
 # Progressive Fusion Network (PFNet) for Integration of Domain Knowledge Guided Feature Engineering and Deep Feature Learning in Surface Electromyography Based Hand Movement Recognition
 
-This repo contains the code for the intra-subject experiments on NinaProDB1 in the paper: Wentao Wei, Xuhui Hu, Hua Liu, Ming Zhou, Yan Song*. Towards Integration of Domain Knowledge-Guided Feature Engineering and Deep Feature Learning in Surface Electromyography-Based Hand Movement Recognition[J]. Computational Intelligence and Neuroscience, 2021.12.
+This repo contains the code for the intra-subject experiments on NinaProDB5 in the paper: Wentao Wei, Xuhui Hu, Hua Liu, Ming Zhou, Yan Song*. Towards Integration of Domain Knowledge-Guided Feature Engineering and Deep Feature Learning in Surface Electromyography-Based Hand Movement Recognition[J]. Computational Intelligence and Neuroscience, 2021.12.
 
 It should be mentioned that the code for feature extraction is not included in this repo.
 
