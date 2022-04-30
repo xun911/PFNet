@@ -13,7 +13,7 @@ It should be mentioned that the code for feature extraction is not included in t
 
 ## Usage
 
- For detailed methods of running the code and training on NinaProDB1, please contact weiwentao@njust.edu.cn
+ For detailed methods of running the code and training on NinaProDB5, please contact weiwentao@njust.edu.cn
 
 ## License
 
